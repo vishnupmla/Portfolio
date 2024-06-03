@@ -259,7 +259,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "Certification",
-          url: "https://drive.google.com/file/d/13P1ROuiKPDGN_J70Eas6B7gLsdr-ZZK8/view?usp=sharing"
+          url: "https://drive.google.com/file/d/13P1ROuiKPDGN_J70Eas6B7gLsdr-ZZK8/view?usp=drive_link"
         },
         {
           name: "Link to course",
@@ -276,7 +276,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "Certification",
-          url: "https://drive.google.com/file/d/1iT08pX_7mnwNkK6FSnqVLXP4T14GEnBW/view?usp=sharing"
+          url: "https://drive.google.com/file/d/1iT08pX_7mnwNkK6FSnqVLXP4T14GEnBW/view?usp=drive_link"
         },
         {
           name: "Link to course",
@@ -291,7 +291,7 @@ const achievementSection = {
       image: require("./assets/images/in.png"),
       imageAlt: "PWA Logo",
       footerLink: [
-        {name: "Certification", url: "https://drive.google.com/file/d/1-cW74d8mKgBsLGDeeD39LCF1hGDu8TZQ/view?usp=sharing"},
+        {name: "Certification", url: "https://drive.google.com/file/d/1-cW74d8mKgBsLGDeeD39LCF1hGDu8TZQ/view?usp=drive_link"},
       ]
     },
 
@@ -301,7 +301,7 @@ const achievementSection = {
       image: require("./assets/images/ach.png"),
       imageAlt: "PWA Logo",
       footerLink: [
-        {name: "Certification", url: "https://drive.google.com/file/d/1xqn-pICsb51GhSvbSXFXcF1tvHbobLY7/view?usp=sharing"},
+        {name: "Certification", url: "https://drive.google.com/file/d/1xqn-pICsb51GhSvbSXFXcF1tvHbobLY7/view?usp=drive_link"},
       ]
     }
   ],
